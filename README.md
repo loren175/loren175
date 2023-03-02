@@ -1,4 +1,4 @@
-# Hi! My name is Rafael (Loren)zetti Mota 
+# Hi 👋, I'm Rafael (Loren)zetti Mota 
 
 ## About me 🔎
 - 🚀 Student at Rocketseat 
