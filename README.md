@@ -1,9 +1,12 @@
 # Hi 👋, I'm Rafael (Loren)zetti Mota 
 
+![Loren175 GitHub stats](https://github-readme-stats.vercel.app/api?username=loren175&show_icons=true&theme=radical)
+
 ## About me 🔎
 - 🚀 Student at Rocketseat 
 - 📚 Always learning something new
-- 🖥 Junior Web Developer
+- 🖥 Web Developer
+- 💼 Currently working with Freelance
 - 📖 Current learning: ReactJS
 
 ## Languages and Tools 💯
