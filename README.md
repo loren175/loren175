@@ -6,7 +6,7 @@
 - 🚀 Student at Rocketseat 
 - 📚 Always learning something new
 - 🖥 Web Developer
-- 💼 Currently working with Freelance
+- 💼 Software Engineer at Groupi LTDA
 - 📖 Current learning: Java
 
 ## Languages and Tools 💯
